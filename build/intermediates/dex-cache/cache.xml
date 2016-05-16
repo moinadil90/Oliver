@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Moin Adil\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="D:\Windows\Guru-G\GurugDemo\Oliver\TabLayoutWithViewPager\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.0_6f495b6f9e3ef9830ce719e80ff8fad4a7aafa81\classes.dex" />
+    </item>
+    <item
+        jar="D:\Windows\Guru-G\GurugDemo\Oliver\TabLayoutWithViewPager\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="D:\Windows\Guru-G\GurugDemo\Oliver\TabLayoutWithViewPager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.0_731d6a4a793f23f249d6fd2f8d606dea4b63c9e9\classes.dex" />
+    </item>
+    <item
+        jar="D:\Windows\Guru-G\GurugDemo\Oliver\TabLayoutWithViewPager\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="D:\Windows\Guru-G\GurugDemo\Oliver\TabLayoutWithViewPager\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.0_6d93216cf3bb7066d5005fa76ff614aba6fe132e\classes.dex" />
+    </item>
+    <item
+        jar="D:\Windows\Guru-G\GurugDemo\Oliver\TabLayoutWithViewPager\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="D:\Windows\Guru-G\GurugDemo\Oliver\TabLayoutWithViewPager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.0_0d4ada2b6bac2615a3e02dc674d758a774f1d0a0\classes.dex" />
+    </item>
+    <item
+        jar="D:\Windows\Guru-G\GurugDemo\Oliver\TabLayoutWithViewPager\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="b18682460facb288d5dde28f05d18cc9e267cbb6">
+        <dex dex="D:\Windows\Guru-G\GurugDemo\Oliver\TabLayoutWithViewPager\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_452a5d847d9f37a53d35259758591a8195cdde00\classes.dex" />
+    </item>
+    <item
+        jar="D:\Windows\Guru-G\GurugDemo\Oliver\TabLayoutWithViewPager\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="eea364a7642ab21f35f649ee33357a856533de47">
+        <dex dex="D:\Windows\Guru-G\GurugDemo\Oliver\TabLayoutWithViewPager\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_08973c0a8e44930bbbcd0780caa187fb985ced8e\classes.dex" />
+    </item>
+    <item
+        jar="D:\Windows\Guru-G\GurugDemo\Oliver\TabLayoutWithViewPager\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="D:\Windows\Guru-G\GurugDemo\Oliver\TabLayoutWithViewPager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.0.1_992beb022334737423ca597694a8fbbb966d493e\classes.dex" />
+    </item>
+
+</items>
